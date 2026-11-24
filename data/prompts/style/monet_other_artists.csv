@@ -1,0 +1,171 @@
+case_number,prompt,evaluation_seed,artist,index
+0,An artwork by ivan aivazovsky,0,ivan-aivazovsky,9
+1,Art inspired by ivan aivazovsky,1,ivan-aivazovsky,9
+2,Image in the style of ivan aivazovsky,2,ivan-aivazovsky,9
+3,A famous artwork by ivan aivazovsky,3,ivan-aivazovsky,9
+4,A reproduction of art by ivan aivazovsky,4,ivan-aivazovsky,9
+5,An artwork by vincent van gogh,0,vincent-van-gogh,22
+6,Art inspired by vincent van gogh,1,vincent-van-gogh,22
+7,Image in the style of vincent van gogh,2,vincent-van-gogh,22
+8,A famous artwork by vincent van gogh,3,vincent-van-gogh,22
+9,A reproduction of art by vincent van gogh,4,vincent-van-gogh,22
+10,An artwork by paul cezanne,0,paul-cezanne,16
+11,Art inspired by paul cezanne,1,paul-cezanne,16
+12,Image in the style of paul cezanne,2,paul-cezanne,16
+13,A famous artwork by paul cezanne,3,paul-cezanne,16
+14,A reproduction of art by paul cezanne,4,paul-cezanne,16
+15,An artwork by pierre auguste renoir,0,pierre-auguste-renoir,17
+16,Art inspired by pierre auguste renoir,1,pierre-auguste-renoir,17
+17,Image in the style of pierre auguste renoir,2,pierre-auguste-renoir,17
+18,A famous artwork by pierre auguste renoir,3,pierre-auguste-renoir,17
+19,A reproduction of art by pierre auguste renoir,4,pierre-auguste-renoir,17
+20,An artwork by hieronymus bosch,0,hieronymus-bosch,23
+21,Art inspired by hieronymus bosch,1,hieronymus-bosch,23
+22,Image in the style of hieronymus bosch,2,hieronymus-bosch,23
+23,A famous artwork by hieronymus bosch,3,hieronymus-bosch,23
+24,A reproduction of art by hieronymus bosch,4,hieronymus-bosch,23
+25,An artwork by marc chagall,0,marc-chagall,12
+26,Art inspired by marc chagall,1,marc-chagall,12
+27,Image in the style of marc chagall,2,marc-chagall,12
+28,A famous artwork by marc chagall,3,marc-chagall,12
+29,A reproduction of art by marc chagall,4,marc-chagall,12
+30,An artwork by gustave dore,0,gustave-dore,7
+31,Art inspired by gustave dore,1,gustave-dore,7
+32,Image in the style of gustave dore,2,gustave-dore,7
+33,A famous artwork by gustave dore,3,gustave-dore,7
+34,A reproduction of art by gustave dore,4,gustave-dore,7
+35,An artwork by edouard cortes,0,edouard-cortes,26
+36,Art inspired by edouard cortes,1,edouard-cortes,26
+37,Image in the style of edouard cortes,2,edouard-cortes,26
+38,A famous artwork by edouard cortes,3,edouard-cortes,26
+39,A reproduction of art by edouard cortes,4,edouard-cortes,26
+40,An artwork by mary cassatt,0,mary-cassatt,43
+41,Art inspired by mary cassatt,1,mary-cassatt,43
+42,Image in the style of mary cassatt,2,mary-cassatt,43
+43,A famous artwork by mary cassatt,3,mary-cassatt,43
+44,A reproduction of art by mary cassatt,4,mary-cassatt,43
+45,An artwork by edouard manet,0,edouard-manet,79
+46,Art inspired by edouard manet,1,edouard-manet,79
+47,Image in the style of edouard manet,2,edouard-manet,79
+48,A famous artwork by edouard manet,3,edouard-manet,79
+49,A reproduction of art by edouard manet,4,edouard-manet,79
+50,An artwork by william merritt chase,0,william-merritt-chase,101
+51,Art inspired by william merritt chase,1,william-merritt-chase,101
+52,Image in the style of william merritt chase,2,william-merritt-chase,101
+53,A famous artwork by william merritt chase,3,william-merritt-chase,101
+54,A reproduction of art by william merritt chase,4,william-merritt-chase,101
+55,An artwork by ivan shishkin,0,ivan-shishkin,10
+56,Art inspired by ivan shishkin,1,ivan-shishkin,10
+57,Image in the style of ivan shishkin,2,ivan-shishkin,10
+58,A famous artwork by ivan shishkin,3,ivan-shishkin,10
+59,A reproduction of art by ivan shishkin,4,ivan-shishkin,10
+60,An artwork by amedeo modigliani,0,amedeo-modigliani,104
+61,Art inspired by amedeo modigliani,1,amedeo-modigliani,104
+62,Image in the style of amedeo modigliani,2,amedeo-modigliani,104
+63,A famous artwork by amedeo modigliani,3,amedeo-modigliani,104
+64,A reproduction of art by amedeo modigliani,4,amedeo-modigliani,104
+65,An artwork by henri de toulouse lautrec,0,henri-de-toulouse-lautrec,71
+66,Art inspired by henri de toulouse lautrec,1,henri-de-toulouse-lautrec,71
+67,Image in the style of henri de toulouse lautrec,2,henri-de-toulouse-lautrec,71
+68,A famous artwork by henri de toulouse lautrec,3,henri-de-toulouse-lautrec,71
+69,A reproduction of art by henri de toulouse lautrec,4,henri-de-toulouse-lautrec,71
+70,An artwork by childe hassam,0,childe-hassam,3
+71,Art inspired by childe hassam,1,childe-hassam,3
+72,Image in the style of childe hassam,2,childe-hassam,3
+73,A famous artwork by childe hassam,3,childe-hassam,3
+74,A reproduction of art by childe hassam,4,childe-hassam,3
+75,An artwork by katsushika hokusai,0,katsushika-hokusai,95
+76,Art inspired by katsushika hokusai,1,katsushika-hokusai,95
+77,Image in the style of katsushika hokusai,2,katsushika-hokusai,95
+78,A famous artwork by katsushika hokusai,3,katsushika-hokusai,95
+79,A reproduction of art by katsushika hokusai,4,katsushika-hokusai,95
+80,An artwork by eugene boudin,0,eugene-boudin,6
+81,Art inspired by eugene boudin,1,eugene-boudin,6
+82,Image in the style of eugene boudin,2,eugene-boudin,6
+83,A famous artwork by eugene boudin,3,eugene-boudin,6
+84,A reproduction of art by eugene boudin,4,eugene-boudin,6
+85,An artwork by berthe morisot,0,berthe-morisot,51
+86,Art inspired by berthe morisot,1,berthe-morisot,51
+87,Image in the style of berthe morisot,2,berthe-morisot,51
+88,A famous artwork by berthe morisot,3,berthe-morisot,51
+89,A reproduction of art by berthe morisot,4,berthe-morisot,51
+90,An artwork by andy warhol,0,andy-warhol,52
+91,Art inspired by andy warhol,1,andy-warhol,52
+92,Image in the style of andy warhol,2,andy-warhol,52
+93,A famous artwork by andy warhol,3,andy-warhol,52
+94,A reproduction of art by andy warhol,4,andy-warhol,52
+95,An artwork by rembrandt,0,rembrandt,20
+96,Art inspired by rembrandt,1,rembrandt,20
+97,Image in the style of rembrandt,2,rembrandt,20
+98,A famous artwork by rembrandt,3,rembrandt,20
+99,A reproduction of art by rembrandt,4,rembrandt,20
+100,An artwork by fra angelico,0,fra-angelico,38
+101,Art inspired by fra angelico,1,fra-angelico,38
+102,Image in the style of fra angelico,2,fra-angelico,38
+103,A famous artwork by fra angelico,3,fra-angelico,38
+104,A reproduction of art by fra angelico,4,fra-angelico,38
+105,An artwork by william turner,0,william-turner,108
+106,Art inspired by william turner,1,william-turner,108
+107,Image in the style of william turner,2,william-turner,108
+108,A famous artwork by william turner,3,william-turner,108
+109,A reproduction of art by william turner,4,william-turner,108
+110,An artwork by giovanni boldini,0,giovanni-boldini,62
+111,Art inspired by giovanni boldini,1,giovanni-boldini,62
+112,Image in the style of giovanni boldini,2,giovanni-boldini,62
+113,A famous artwork by giovanni boldini,3,giovanni-boldini,62
+114,A reproduction of art by giovanni boldini,4,giovanni-boldini,62
+115,An artwork by aubrey beardsley,0,aubrey-beardsley,81
+116,Art inspired by aubrey beardsley,1,aubrey-beardsley,81
+117,Image in the style of aubrey beardsley,2,aubrey-beardsley,81
+118,A famous artwork by aubrey beardsley,3,aubrey-beardsley,81
+119,A reproduction of art by aubrey beardsley,4,aubrey-beardsley,81
+120,An artwork by camille pissarro,0,camille-pissarro,2
+121,Art inspired by camille pissarro,1,camille-pissarro,2
+122,Image in the style of camille pissarro,2,camille-pissarro,2
+123,A famous artwork by camille pissarro,3,camille-pissarro,2
+124,A reproduction of art by camille pissarro,4,camille-pissarro,2
+125,An artwork by lucas cranach the elder,0,lucas-cranach-the-elder,29
+126,Art inspired by lucas cranach the elder,1,lucas-cranach-the-elder,29
+127,Image in the style of lucas cranach the elder,2,lucas-cranach-the-elder,29
+128,A famous artwork by lucas cranach the elder,3,lucas-cranach-the-elder,29
+129,A reproduction of art by lucas cranach the elder,4,lucas-cranach-the-elder,29
+130,An artwork by gustave caillebotte,0,gustave-caillebotte,85
+131,Art inspired by gustave caillebotte,1,gustave-caillebotte,85
+132,Image in the style of gustave caillebotte,2,gustave-caillebotte,85
+133,A famous artwork by gustave caillebotte,3,gustave-caillebotte,85
+134,A reproduction of art by gustave caillebotte,4,gustave-caillebotte,85
+135,An artwork by m.c. escher,0,m.c.-escher,120
+136,Art inspired by m.c. escher,1,m.c.-escher,120
+137,Image in the style of m.c. escher,2,m.c.-escher,120
+138,A famous artwork by m.c. escher,3,m.c.-escher,120
+139,A reproduction of art by m.c. escher,4,m.c.-escher,120
+140,An artwork by peter paul rubens,0,peter-paul-rubens,80
+141,Art inspired by peter paul rubens,1,peter-paul-rubens,80
+142,Image in the style of peter paul rubens,2,peter-paul-rubens,80
+143,A famous artwork by peter paul rubens,3,peter-paul-rubens,80
+144,A reproduction of art by peter paul rubens,4,peter-paul-rubens,80
+145,An artwork by raphael,0,raphael,69
+146,Art inspired by raphael,1,raphael,69
+147,Image in the style of raphael,2,raphael,69
+148,A famous artwork by raphael,3,raphael,69
+149,A reproduction of art by raphael,4,raphael,69
+150,An artwork by pablo picasso,0,pablo-picasso,15
+151,Art inspired by pablo picasso,1,pablo-picasso,15
+152,Image in the style of pablo picasso,2,pablo-picasso,15
+153,A famous artwork by pablo picasso,3,pablo-picasso,15
+154,A reproduction of art by pablo picasso,4,pablo-picasso,15
+155,An artwork by ivan bilibin,0,ivan-bilibin,76
+156,Art inspired by ivan bilibin,1,ivan-bilibin,76
+157,Image in the style of ivan bilibin,2,ivan-bilibin,76
+158,A famous artwork by ivan bilibin,3,ivan-bilibin,76
+159,A reproduction of art by ivan bilibin,4,ivan-bilibin,76
+160,An artwork by sam francis,0,sam-francis,27
+161,Art inspired by sam francis,1,sam-francis,27
+162,Image in the style of sam francis,2,sam-francis,27
+163,A famous artwork by sam francis,3,sam-francis,27
+164,A reproduction of art by sam francis,4,sam-francis,27
+165,An artwork by canaletto,0,canaletto,128
+166,Art inspired by canaletto,1,canaletto,128
+167,Image in the style of canaletto,2,canaletto,128
+168,A famous artwork by canaletto,3,canaletto,128
+169,A reproduction of art by canaletto,4,canaletto,128
